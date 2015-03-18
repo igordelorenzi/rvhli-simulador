@@ -1,0 +1,1 @@
+simulador matematico para tarefas financeiras
